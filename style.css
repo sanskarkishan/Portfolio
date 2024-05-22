@@ -481,8 +481,12 @@ nav ul li a:hover::after {
 
 .btn.btn2 {
     display: inline-block;
+    background: #080808;
+    cursor: pointer; 
+}
+.btn.btn2:hover {
     background: #ff004f;
-    cursor: pointer;
+
 }
 
 .contact-right form {
